@@ -1,5 +1,5 @@
 # Python_Firebase
-Python scripts to send data to firebase for testing 
+Python scripts to send and read data to firebase for testing 
 
 ## Download or install following modules
 
